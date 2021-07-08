@@ -22,12 +22,17 @@ namespace Quizzes
 
         }
 
-        public void ValidateCorrectAnswer(CheckBox q)
+        public bool ValidateCorrectAnswer()
         {
-           // int len = q.CorrectAnswerTxt.Length;
+            for (int i = 0; i < this.CorrectAnswerTxt.Length - 1; i++)
+            {
+                if (this.CorrectAnswerTxt[i] == this.CorrectAnswerTxt[i + 1])
+                {
+                    return false;
+                }
+            }
 
-            
-
+            return true;
 
         }
     }

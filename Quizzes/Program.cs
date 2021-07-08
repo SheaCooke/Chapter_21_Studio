@@ -32,17 +32,21 @@ namespace Quizzes
 
             Quiz.RunQuiz();
 
-            //Console.WriteLine(test.ValidateCorrectAnswer()); 
+            /*
+            Console.WriteLine(test.ValidateCorrectAnswer());
+            Console.WriteLine(test2.ValidateCorrectAnswer());
+            Console.WriteLine(test3.ValidateCorrectAnswer());
+            */
 
-            
 
-            
 
-            
 
-            
 
-            
+
+
+
+
+
         }
     }
 }
