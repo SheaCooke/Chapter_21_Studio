@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quizzes
 {
-    class CheckBox : Question
+    public class CheckBox : Question
     {
 
         /*
@@ -22,7 +22,7 @@ namespace Quizzes
 
         }
 
-        public bool ValidateCorrectAnswer()
+        public bool ValidateCorrectAnswer() // makes sure there are no repeating chars 
         {
             for (int i = 0; i < this.CorrectAnswerTxt.Length - 1; i++)
             {

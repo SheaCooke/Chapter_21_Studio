@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quizzes 
 {
-    class TrueFalse : Question
+    public class TrueFalse : Question
     {
 
         /*
@@ -22,7 +22,7 @@ namespace Quizzes
 
         }
 
-        public bool ValidateCorrectAnswer()
+        public bool ValidateCorrectAnswer() // makes sure every answer is either true or false 
         {
             if (this.CorrectAnswerTxt.ToLower() == "true" || this.CorrectAnswerTxt.ToLower() == "false")
             {

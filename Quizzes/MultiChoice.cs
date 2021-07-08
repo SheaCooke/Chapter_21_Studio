@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quizzes
 {
-    class MultiChoice : Question
+    public class MultiChoice : Question
     {
 
         /*
@@ -21,7 +21,7 @@ namespace Quizzes
 
         }
 
-        public bool ValidateCorrectAnswer()
+        public bool ValidateCorrectAnswer() // makes sure there is only 1 answer
         {
             if (this.CorrectAnswerTxt.Length == 1)
             {
