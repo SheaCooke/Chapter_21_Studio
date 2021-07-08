@@ -6,18 +6,17 @@ using System.Threading.Tasks;
 
 namespace Quizzes
 {
-    class CheckBox : Question
+    class MultiChoice : Question
     {
 
         /*
-
-        public CheckBox(string txt, string correctAnswer)
+        public MultiChoice(string txt, string correctAnswer)
         {
             QuestionText = txt;
             CorrectAnswerTxt = correctAnswer;
         }*/
 
-        public CheckBox(string txt, string answer) : base(txt, answer) 
+        public MultiChoice(string txt, string answer) : base(txt, answer)
         {
 
         }

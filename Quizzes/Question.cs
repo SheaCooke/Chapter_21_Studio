@@ -6,9 +6,25 @@ using System.Threading.Tasks;
 
 namespace Quizzes
 {
-    public class Question : Quiz
+    public class Question 
     {
 
-        public bool CorrectAnswer { get; set; }
+        public string QuestionText { get; set; }
+
+        public string CorrectAnswerTxt { get; set; }
+
+        public Question(string questiontxt, string correctAnswer)
+        {
+            QuestionText = questiontxt;
+            CorrectAnswerTxt = correctAnswer;
+        }
+
+
+
+        
+
+        
+
+
     }
 }

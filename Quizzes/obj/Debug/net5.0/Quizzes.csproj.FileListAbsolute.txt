@@ -1,0 +1,16 @@
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\Quizzes.exe
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\Quizzes.deps.json
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\Quizzes.runtimeconfig.json
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\Quizzes.runtimeconfig.dev.json
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\Quizzes.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\ref\Quizzes.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\bin\Debug\net5.0\Quizzes.pdb
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.csproj.AssemblyReference.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.AssemblyInfoInputs.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.AssemblyInfo.cs
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.csproj.CoreCompileInputs.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\ref\Quizzes.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.pdb
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter_21_Studio\Quizzes\Quizzes\obj\Debug\net5.0\Quizzes.genruntimeconfig.cache
