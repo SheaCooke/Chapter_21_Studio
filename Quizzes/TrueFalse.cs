@@ -21,5 +21,17 @@ namespace Quizzes
         {
 
         }
+
+        public bool ValidateCorrectAnswer()
+        {
+            if (this.CorrectAnswerTxt.ToLower() == "true" || this.CorrectAnswerTxt.ToLower() == "false")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

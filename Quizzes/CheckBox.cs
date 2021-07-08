@@ -21,5 +21,14 @@ namespace Quizzes
         {
 
         }
+
+        public void ValidateCorrectAnswer(CheckBox q)
+        {
+           // int len = q.CorrectAnswerTxt.Length;
+
+            
+
+
+        }
     }
 }

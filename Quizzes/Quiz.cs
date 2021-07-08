@@ -10,14 +10,17 @@ namespace Quizzes
     {
         public static Dictionary<string, string> QuestionsAndAnswers = new Dictionary<string, string>();
 
-        public static int NumQuestions;
+        public static double NumQuestions;
 
-        public static int NumCorrect;
+        public static double NumCorrect;
 
         public static string Input;
 
+        public static double Grade;
+
         public static void AddQuestions(Question q) // Call on an instance of a checkbox, true/false or multichoice question to add the text portion to the list 
         {
+            
             QuestionsAndAnswers[q.CorrectAnswerTxt] = q.QuestionText;
 
         }
@@ -39,7 +42,9 @@ namespace Quizzes
 
             }
 
-            Console.WriteLine($"Your grade is { (NumCorrect / NumQuestions) * 100}%");
+            Grade = (NumCorrect / NumQuestions) * 100;
+
+            Console.WriteLine($"Your grade is {Grade}%");
             
         }
 

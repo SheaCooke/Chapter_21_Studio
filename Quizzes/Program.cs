@@ -32,6 +32,10 @@ namespace Quizzes
 
             Quiz.RunQuiz();
 
+            //Console.WriteLine(test.ValidateCorrectAnswer()); 
+
+            
+
             
 
             
